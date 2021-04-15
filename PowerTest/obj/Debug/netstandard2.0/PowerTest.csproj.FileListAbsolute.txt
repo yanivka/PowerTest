@@ -1,0 +1,9 @@
+C:\Data\Projects\Yaniv\PowerTest\PowerTest\bin\Debug\netstandard2.0\PowerTest.deps.json
+C:\Data\Projects\Yaniv\PowerTest\PowerTest\bin\Debug\netstandard2.0\PowerTest.dll
+C:\Data\Projects\Yaniv\PowerTest\PowerTest\bin\Debug\netstandard2.0\PowerTest.pdb
+C:\Data\Projects\Yaniv\PowerTest\PowerTest\obj\Debug\netstandard2.0\PowerTest.csprojAssemblyReference.cache
+C:\Data\Projects\Yaniv\PowerTest\PowerTest\obj\Debug\netstandard2.0\PowerTest.AssemblyInfoInputs.cache
+C:\Data\Projects\Yaniv\PowerTest\PowerTest\obj\Debug\netstandard2.0\PowerTest.AssemblyInfo.cs
+C:\Data\Projects\Yaniv\PowerTest\PowerTest\obj\Debug\netstandard2.0\PowerTest.csproj.CoreCompileInputs.cache
+C:\Data\Projects\Yaniv\PowerTest\PowerTest\obj\Debug\netstandard2.0\PowerTest.dll
+C:\Data\Projects\Yaniv\PowerTest\PowerTest\obj\Debug\netstandard2.0\PowerTest.pdb
